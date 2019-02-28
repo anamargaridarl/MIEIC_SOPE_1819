@@ -13,10 +13,9 @@ int main(void)
     printf("How many students?");
     scanf("%d", &n);
     char name[MAX_LEN];
-    char buffer_grade[MAX_LEN];
-    char newline = '\n';
+    char buffer_age[MAX_LEN];
 
-    f = open("class.txt", O_CREAT | O_WRONLY | O_EXCL, 0644);
+    f = open("class", O_CREAT | O_WRONLY | O_EXCL, 0644);
     if (f == -1)
     {
         perror("class");
@@ -30,10 +29,9 @@ int main(void)
     scanf("%s", name);
     printf("Grade: \n");
     scanf("%d", &grade);
-    sprintf(buffer_grade,"%d",grade);
+    itoa(grade, buffer_age, 10);
     write(f,name,strlen(name));
-    write(f,buffer_grade,strlen(buffer_grade));
-    write(f,&newline,1);
+    write(f,buffer_age,strlen(to_string(grade)));
     }
 
     close(f);
