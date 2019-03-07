@@ -4,6 +4,7 @@
 #include <dirent.h>
 #include <sys/stat.h>
 #include <errno.h>
+#include <inttypes.h> //print ino_t
 
 int main(int argc, char *argv[])
 {
@@ -33,7 +34,7 @@ int main(int argc, char *argv[])
             str = "directory";
         else
             str = "other";
-        printf("%-25s - %s\n", direntp->d_name, str);
+        printf("%-25s - %s %ju \n", direntp->d_name, str,(uintmax_t)(direntp->d_ino));
         }
         else
         {
