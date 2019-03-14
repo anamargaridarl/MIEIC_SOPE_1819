@@ -1,0 +1,33 @@
+.:
+total 144
+drwxr-xr-x 3 anamargaridarl anamargaridarl 4096 mar  7 23:04 .
+drwxr-xr-x 7 anamargaridarl anamargaridarl 4096 mar  7 15:17 ..
+-rw-r--r-- 1 anamargaridarl anamargaridarl    0 mar  7 23:04 ana.txt
+-rwxr-xr-x 1 anamargaridarl anamargaridarl 8600 mar  7 23:04 ex10
+-rw-rw-r-- 1 anamargaridarl anamargaridarl  856 mar  7 23:04 ex10.c
+-rw-rw-r-- 1 anamargaridarl anamargaridarl  495 mar  7 11:52 ex1_1.c
+-rw-rw-r-- 1 anamargaridarl anamargaridarl  407 mar  7 12:03 ex2_1.c
+-rw-rw-r-- 1 anamargaridarl anamargaridarl  308 mar  7 12:06 ex2_2e3.c
+-rw-rw-r-- 1 anamargaridarl anamargaridarl  628 mar  7 12:09 ex3.c
+-rw-rw-r-- 1 anamargaridarl anamargaridarl  277 mar  7 12:17 ex4_1.c
+-rw-rw-r-- 1 anamargaridarl anamargaridarl  259 mar  7 12:18 ex4_2.c
+-rw-rw-r-- 1 anamargaridarl anamargaridarl  716 mar  7 12:30 ex5.c
+-rw-rw-r-- 1 anamargaridarl anamargaridarl 1084 mar  7 12:56 ex6.c
+-rw-rw-r-- 1 anamargaridarl anamargaridarl  331 mar  7 14:41 ex7.c
+-rwxr-xr-x 1 anamargaridarl anamargaridarl 8472 mar  7 21:46 ex8_1
+-rw-rw-r-- 1 anamargaridarl anamargaridarl  525 mar  7 22:29 ex8_1.c
+-rwxr-xr-x 1 anamargaridarl anamargaridarl 8472 mar  7 21:45 ex8_2
+-rw-rw-r-- 1 anamargaridarl anamargaridarl  529 mar  7 22:06 ex8_2.c
+-rwxr-xr-x 1 anamargaridarl anamargaridarl 8472 mar  7 21:54 ex8_3
+-rw-rw-r-- 1 anamargaridarl anamargaridarl  551 mar  7 22:26 ex8_3.c
+-rwxr-xr-x 1 anamargaridarl anamargaridarl 8472 mar  7 22:07 ex8_4
+-rw-rw-r-- 1 anamargaridarl anamargaridarl  562 mar  7 22:07 ex8_4.c
+-rwxr-xr-x 1 anamargaridarl anamargaridarl 8520 mar  7 22:51 ex9_1
+-rw-rw-r-- 1 anamargaridarl anamargaridarl  760 mar  7 22:52 ex9.c
+drwxrwxr-x 2 anamargaridarl anamargaridarl 4096 mar  7 22:37 .vscode
+
+./.vscode:
+total 12
+drwxrwxr-x 2 anamargaridarl anamargaridarl 4096 mar  7 22:37 .
+drwxr-xr-x 3 anamargaridarl anamargaridarl 4096 mar  7 23:04 ..
+-rw-rw-r-- 1 anamargaridarl anamargaridarl   59 mar  7 22:37 settings.json
