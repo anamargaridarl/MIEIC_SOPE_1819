@@ -56,6 +56,8 @@ int main(void)
     if (pid > 0)
     {
         int m =0 ;
+        //int tmp = 
+        // parar com waitpid
         while (1)
         {
             if (m = rand() % 2, m == 0)
